@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+#title {
+  font-size: 2em;
+}
+
+.text {
+  font-family: 'Roboto Mono', sans-serif
+}
+
+#total {
+  font-size: 1.25em;
+}
