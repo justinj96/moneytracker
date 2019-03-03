@@ -1,0 +1,1 @@
+Simple Money Tracking app. Very similar style to a to-do list. Plan on adding more features.
